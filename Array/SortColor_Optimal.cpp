@@ -1,7 +1,8 @@
 //Leetcode Problem 75-> Sort Colors
-//Solution -> using Binary Search
-//Time Complexity -> O(log n)
+//Time Complexity -> O(n)
 //Space Complexity -> O(1)
+---------------------------------------------
+    ------------------------------------------
 
 class Solution {
 public:
