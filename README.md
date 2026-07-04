@@ -13,7 +13,7 @@ This repository includes:
 - 📚 DSA Concept Implementations
 - 🧠 Optimized Approaches
 - 📝 Well-Commented Code
-- 🔄 Regular Practice and Updates
+- 🔄 Regular Practice and Updates.
 
 ## 📌 Topics Covered
 
@@ -22,51 +22,51 @@ This repository includes:
 - Searching
 - Sorting
 - Two Pointers
-- Sliding Window
+- Sliding Window.
 
 ### 🔹 Strings
 - String Manipulation
 - Pattern Matching
-- Hashing
+- Hashing.
 
 ### 🔹 Linked List
 - Singly Linked List
 - Doubly Linked List
-- Circular Linked List
+- Circular Linked List.
 
 ### 🔹 Stack
 - Implementation
 - Monotonic Stack
-- Expression Evaluation
+- Expression Evaluation.
 
 ### 🔹 Queue
 - Simple Queue
 - Circular Queue
 - Deque
-- Priority Queue
+- Priority Queue.
 
 ### 🔹 Recursion and Backtracking
 - Recursion Basics
-- Backtracking Problems
+- Backtracking Problems.
 
 ### 🔹 Trees
 - Binary Tree
 - Binary Search Tree (BST)
-- Tree Traversals
+- Tree Traversals.
 
 ### 🔹 Heap
 - Min Heap
 - Max Heap
-- Heap-Based Problems
+- Heap-Based Problems.
 
 ### 🔹 Hashing
 - Hash Maps
-- Hash Sets
+- Hash Sets.
 
 ### 🔹 Graphs
 - BFS
 - DFS
-- Shortest Path Algorithms
+- Shortest Path Algorithms.
 
 ### 🔹 Dynamic Programming
 - Memoization
